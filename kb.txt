@@ -7,3 +7,5 @@ Kitten male
 Name: Vaska
 Age: 3 month
 Color: white
+Owner: Larisa Korableva
+Owner phone: +79214556033
