@@ -8,4 +8,5 @@ Awesome Cat
 Name: Murzik
 Age: 3Y11M
 Length: 48 sm
+Toy: Ball with bells
 
