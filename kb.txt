@@ -9,3 +9,4 @@ Age: 3 month
 Color: white
 Owner: Larisa Korableva
 Owner phone: +79214556033
+Vaccinated: 12.02.2024
