@@ -10,4 +10,4 @@ Name: Murzik
 Age: 3Y11M
 Length: 48 sm
 Toy: Ball with bells
-
+vaccine date: 20.02.2024
